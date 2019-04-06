@@ -36,4 +36,5 @@ ui.R, server.R, /data, /www, /about
 ### Application and final presentation
 #### Links:
 - Application can be viewed at: https://raghu-7.shinyapps.io/ShinyApp/
-- Presentation can be viewed at http://rpubs.com/Raghavendra/DataScience-Capstone
+- Milestone Presentation can be viewed at http://rpubs.com/Raghavendra/482870
+- Capstone Presentation can be viewed at http://rpubs.com/Raghavendra/484092
